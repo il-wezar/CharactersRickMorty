@@ -80,7 +80,7 @@ extension ViewController {
     }
 }
 
-//MARK: - extension DataSource and Delegate
+//MARK: - extensions DataSource and Delegate
 
 extension ViewController: UICollectionViewDataSource, UICollectionViewDelegate {
     
